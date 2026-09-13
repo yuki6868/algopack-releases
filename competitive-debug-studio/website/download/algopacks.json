@@ -38,6 +38,10 @@
       "id": "ABC474",
       "problems": ["A", "B", "C", "D", "E", "F", "G"],
       "overrides": {
+        "A": {
+          "releaseVersion": "1.0.2",
+          "fileVersion": "v1.0.1"
+        },
         "F": {
           "releaseVersion": "1.0.1",
           "fileVersion": "v1.0.1"
