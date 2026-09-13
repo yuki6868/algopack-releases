@@ -30,7 +30,13 @@
     },
     {
       "id": "ABC474",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+      "problems": ["A", "B", "C", "D", "E", "F", "G"],
+      "overrides": {
+        "F": {
+          "releaseVersion": "1.0.1",
+          "fileVersion": "v1.0.1"
+        }
+      }
     }
   ]
 }
