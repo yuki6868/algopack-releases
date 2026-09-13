@@ -18,7 +18,13 @@
     },
     {
       "id": "ABC471",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+      "problems": ["A", "B", "C", "D", "E", "F", "G"],
+      "overrides": {
+        "E": {
+          "releaseVersion": "1.0.1",
+          "fileVersion": "v1.0.1"
+        }
+      }
     },
     {
       "id": "ABC472",
