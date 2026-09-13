@@ -50,7 +50,8 @@
     },
     {
       "id": "ABC475",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+      "problems": ["A", "B", "C", "D", "E", "F", "G"],
+      "fileVersion": "v1.0.0"
     }
   ]
 }
