@@ -1,0 +1,36 @@
+{
+  "defaults": {
+    "releaseVersion": "1.0.0",
+    "fileVersion": "v1"
+  },
+  "contests": [
+    {
+      "id": "ABC468",
+      "problems": ["A", "B", "C", "D", "E"]
+    },
+    {
+      "id": "ABC469",
+      "problems": ["A", "B", "C", "D", "E"]
+    },
+    {
+      "id": "ABC470",
+      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+    },
+    {
+      "id": "ABC471",
+      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+    },
+    {
+      "id": "ABC472",
+      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+    },
+    {
+      "id": "ABC473",
+      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+    },
+    {
+      "id": "ABC474",
+      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+    }
+  ]
+}
