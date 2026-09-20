@@ -142,6 +142,10 @@
         "A": {
           "releaseVersion": "1.0.1",
           "fileVersion": "v1.0.1"
+        },
+        "B": {
+          "releaseVersion": "1.0.2",
+          "fileVersion": "v1.0.1"
         }
       }
     }
