@@ -6,19 +6,47 @@
   "contests": [
     {
       "id": "ABC468",
-      "problems": ["A", "B", "C", "D", "E"]
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
     },
     {
       "id": "ABC469",
-      "problems": ["A", "B", "C", "D", "E"]
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
     },
     {
       "id": "ABC470",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ]
     },
     {
       "id": "ABC471",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"],
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
       "overrides": {
         "E": {
           "releaseVersion": "1.0.1",
@@ -28,15 +56,39 @@
     },
     {
       "id": "ABC472",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ]
     },
     {
       "id": "ABC473",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"]
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ]
     },
     {
       "id": "ABC474",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"],
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
       "overrides": {
         "A": {
           "releaseVersion": "1.0.2",
@@ -50,12 +102,41 @@
     },
     {
       "id": "ABC475",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"],
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
       "fileVersion": "v1.0.0"
     },
     {
       "id": "ABC476",
-      "problems": ["A", "B", "C", "D", "E", "F", "G"],
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "fileVersion": "v1.0.0"
+    },
+    {
+      "id": "ABC467",
+      "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
       "fileVersion": "v1.0.0"
     }
   ]
