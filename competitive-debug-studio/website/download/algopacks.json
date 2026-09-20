@@ -137,7 +137,13 @@
         "F",
         "G"
       ],
-      "fileVersion": "v1.0.0"
+      "fileVersion": "v1.0.0",
+      "overrides": {
+        "A": {
+          "releaseVersion": "1.0.1",
+          "fileVersion": "v1.0.1"
+        }
+      }
     }
   ]
 }
