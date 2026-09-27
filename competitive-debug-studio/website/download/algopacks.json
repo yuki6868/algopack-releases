@@ -163,8 +163,8 @@
       "fileVersion": "v1.0.0",
       "overrides": {
         "G": {
-          "releaseVersion": "1.0.1",
-          "fileVersion": "v1.0.1"
+          "releaseVersion": "1.0.2",
+          "fileVersion": "v1.0.2"
         }
       }
     }
